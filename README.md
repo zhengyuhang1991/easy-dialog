@@ -51,9 +51,3 @@ use传递参数：
  }
 ]
 ```
-
-显示隐藏的消息提示框：
-- this.$easyDialog.show()
-
-隐藏消息提示框：
-- this.$easyDialog.close()
