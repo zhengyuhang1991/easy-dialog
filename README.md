@@ -1,5 +1,5 @@
 # leiang-easy-dialog
-vue插件leiang-easy-dialog，消息提醒框
+vue插件leiang-easy-dialog，消息对话框
 
 1.安装npm包
 ```

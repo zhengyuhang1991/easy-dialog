@@ -1,7 +1,7 @@
 {
   "name": "leiang-easy-dialog",
   "description": "A Vue.js plugin (Dialog)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "LoSt <zhengyuhang47@qq.com>",
   "main":"dist/easy-dialog.js",
   "license": "MIT",
